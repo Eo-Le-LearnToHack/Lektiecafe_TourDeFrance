@@ -1,0 +1,15 @@
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_TourDeFrance\TourDeFrance\bin\Debug\net6.0\TourDeFrance.exe
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_TourDeFrance\TourDeFrance\bin\Debug\net6.0\TourDeFrance.deps.json
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_TourDeFrance\TourDeFrance\bin\Debug\net6.0\TourDeFrance.runtimeconfig.json
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_TourDeFrance\TourDeFrance\bin\Debug\net6.0\TourDeFrance.dll
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_TourDeFrance\TourDeFrance\bin\Debug\net6.0\TourDeFrance.pdb
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_TourDeFrance\TourDeFrance\obj\Debug\net6.0\TourDeFrance.csproj.AssemblyReference.cache
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_TourDeFrance\TourDeFrance\obj\Debug\net6.0\TourDeFrance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_TourDeFrance\TourDeFrance\obj\Debug\net6.0\TourDeFrance.AssemblyInfoInputs.cache
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_TourDeFrance\TourDeFrance\obj\Debug\net6.0\TourDeFrance.AssemblyInfo.cs
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_TourDeFrance\TourDeFrance\obj\Debug\net6.0\TourDeFrance.csproj.CoreCompileInputs.cache
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_TourDeFrance\TourDeFrance\obj\Debug\net6.0\TourDeFrance.dll
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_TourDeFrance\TourDeFrance\obj\Debug\net6.0\refint\TourDeFrance.dll
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_TourDeFrance\TourDeFrance\obj\Debug\net6.0\TourDeFrance.pdb
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_TourDeFrance\TourDeFrance\obj\Debug\net6.0\TourDeFrance.genruntimeconfig.cache
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_TourDeFrance\TourDeFrance\obj\Debug\net6.0\ref\TourDeFrance.dll
